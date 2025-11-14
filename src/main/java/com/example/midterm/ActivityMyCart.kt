@@ -21,7 +21,7 @@ class ActivityMyCart : AppCompatActivity() {
 
         if (productPrice == 0) {
             Toast.makeText(this, "Error: Product price not found. Defaulting to 120", Toast.LENGTH_LONG).show()
-            productPrice = 120 // Fallback
+            productPrice = 120
         }
 
         quantity = 2
