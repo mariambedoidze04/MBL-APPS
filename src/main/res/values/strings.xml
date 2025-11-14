@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MIDTERM</string>
+    <string name="start_shopping">Start Shopping</string>
+    <string name="discusses_the_factors_that_make_a_logo_successful_by_analyzing_the_research_brainstorming_sketching_and_stylistic_experiments_that_led_to_its_development">Discusses The Factors That Make A Logo Successful By Analyzing The Research, Brainstorming, Sketching, And Stylistic Experiments That Led To Its Development.</string>
+    <string name="shopping_cart_icon">Shopping Cart Icon</string>
+    <string name="cart">Cart</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="offers">Offers</string>
+    <string name="_120">120$</string>
+    <string name="official_store">official store</string>
+    <string name="product_image">Product Image</string>
+    <string name="cart_icon">Cart Icon</string>
+    <string name="search">search</string>
+    <string name="payment_successfull">Payment Successfull</string>
+    <string name="payment_successful_illustration">Payment Successful Illustration</string>
+    <string name="oil">Oil</string>
+    <string name="this_product_is_very_important_and_most_seller">This Product is Very Important And Most Seller</string>
+    <string name="_149">149$</string>
+    <string name="free_delivery">free delivery</string>
+    <string name="official_storee">official store</string>
+</resources>
