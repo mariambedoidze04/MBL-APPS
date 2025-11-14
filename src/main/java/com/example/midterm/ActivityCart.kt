@@ -14,7 +14,6 @@ class ActivityCart : AppCompatActivity() {
         binding = ActivityCartBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Navigation: Cart -> Product (Start Shopping)
         binding.btnStartShopping.setOnClickListener {
             val intent = Intent(this, ActivityProduct::class.java)
             startActivity(intent)
